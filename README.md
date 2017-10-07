@@ -1,0 +1,2 @@
+Try to follow the instructions at: https://medium.com/@sajjankumarjain/13-steps-to-your-first-mern-app-bcfd673f346a and see if you arrive here.
+node_modules is not a part of the repository for obvious reasons. Clone the git repo and run npm init.
